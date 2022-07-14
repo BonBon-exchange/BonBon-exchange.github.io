@@ -914,7 +914,8 @@ a {
 }
 
 .link {
-    display: inline
+    display: inline;
+    white-space: nowrap
 }
 
 .logo-link {
