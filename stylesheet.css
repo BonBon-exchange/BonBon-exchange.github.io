@@ -1354,7 +1354,8 @@ a {
 .image {
     height: 300px;
     max-height: 30%;
-    margin: 80px auto
+    margin: 0px auto;
+    display: inline
 }
 
 .section-2 {
@@ -1367,7 +1368,9 @@ a {
 
 .heading-2 {
     font-family: sans-serif;
-    text-align: right
+    text-align: right;
+    margin-right: 30px;
+    margin-left: 20px
 }
 
 .button-2 {
@@ -1416,6 +1419,12 @@ a {
 
 .image-2 {
     margin: 25px 20px 30px 30px
+}
+
+.downloadimage {
+    height:100px;
+    max-height: 20vw;
+    display: inline
 }
 
 .heading-3 {
