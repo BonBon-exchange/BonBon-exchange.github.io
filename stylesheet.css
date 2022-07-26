@@ -929,11 +929,19 @@ a {
     left: 0;
     background-color: #4285e9;
   }
+  .left_split:hover {
+    left: 0;
+    background-color: rgb(46, 113, 200);
+  }
   
   /* Control the right side */
   .right_split {
     right: 0;
     background-color: #fff;
+  }
+  .right_split:hover {
+    right: 0;
+    background-color: rgb(240, 240, 240);
   }
   
   .centered_split {
